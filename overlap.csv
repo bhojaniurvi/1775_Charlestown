@@ -1,0 +1,61 @@
+Name,Sex,Race,HH ID,Enslaver Last Name,Enslaver First Name,Unique ID,Family,which tab
+Phillis,F,B,82,Codman,John,ID_2,RES.091,Enslaved people
+Phillis,F,B,396,Waters,Mary,ID_2,RES.429,Enslaved people
+Cezar,M,B,21,Austin,Ebenr.,ID_6,RES.016,Enslaved people
+Grace,F,B,21,Austin,Ebenezer,ID_7,RES.016,Enslaved people
+Nanne,F,B,21,Austin,Ebenezer,ID_8,RES.016,Enslaved people
+Nanne,F,B,386,Tufts,Sarah,ID_8,RES.417,Enslaved people
+Zipporah,F,B,51,Brown,Nathaniel,ID_12,RES.062,census
+Cesar,M,B,63,Call,Thomas,ID_14,RES.069,Enslaved people
+Adam,M,B,78,Cheever,Ezekiel,ID_21,RES.086,Enslaved people
+Mark,M,B,82,Codman,John,ID_24,RES.091,Enslaved people
+Phebe,F,B,82,Codman,John,ID_25,RES.091,census
+Primas,M,B,101,"Dows, Esqr.",Jona.,ID_28,RES.488,Enslaved people
+Juba,M,B,102,Dowse,S,ID_30,RES.492,Enslaved people
+man,M,B,101,Dowse,Captain Jonathan,ID_31,RES.488,Enslaved people
+Phillida,F,B,102,Dowse,S,ID_32,RES.492,Enslaved people
+Charlestown,M,B,117,Flucker,Thomas,ID_35,RES.128,census
+Cato,M,B,296,Rand,Dr.,ID_39,RES.325,Enslaved people
+Cato,M,B,322,Russel,Sarah,ID_39,RES.351,Enslaved people
+Cato,M,B,138,Frothingham,Nathaniel,ID_39,RES.150,census
+Cato,M,B,329,Sheafe,Mary,ID_39,RES.356,census
+Fortune,M,B,154,Gowin,Hammond,ID_41,,census
+Venus,F,B,154,Gowin,H,ID_44,,Enslaved people
+servant,,B,236,Lynde,Col. Joseph,ID_47,RES.261,Enslaved people
+servant,,B,410,Wood,Benjamin,ID_47,RES.446,Enslaved people
+A negro woman ,M,B,279,Phipps,Samuel,ID_63,RES.308,Enslaved people
+a negro boy,M,B,279,Phipps,Samuel,ID_63,RES.308,Enslaved people
+Essex,M,B,288,Powers,Thomas,ID_64,RES.316,census
+Dinah,F,B,416,Savage (wyer),Elizabeth,ID_65,RES.452,Enslaved people
+Quace,M,B,327,Russell,Daniel,ID_69,RES.354,Enslaved people
+Lucy,F,B,339,Soley,John,ID_78,RES.369,Enslaved people
+Dinah,F,B,122,Foster,Isaac,ID_79,RES.133,census
+Dinah,F,B,349,Stevens,Abigail,ID_79,RES.379,census
+Sambo,M,B,208,Kent,Rebecca,ID_80,RES.232,census
+Sambo,M,B,349,Stevens,Abigail,ID_80,RES.379,census
+Sambo,M,B,368,Temple,Robert,ID_80,RES.398,census
+Bandon,M,B,368,Temple,Mehetable,ID_85,RES.398,Enslaved people
+Dutches,F,B,368,Temple,Robert,ID_86,RES.398,census
+Jumbo,M,B,368,Temple,R,ID_87,RES.398,Enslaved people
+Kerry,M,B,368,Temple,Mehetable,ID_88,RES.398,Enslaved people
+Mallow,F,B,368,Temple,Mehetable,ID_90,RES.398,Enslaved people
+Reuben,M,B,386,Tufts,Sarah,ID_93,RES.417,Enslaved people
+Cuffee,M,B,417,Wyer,William,ID_96,RES.455,Enslaved people
+Grace,F,B,417,Wyer,William,ID_98,RES.455,Enslaved people
+Jenny,F,B,417,Wyer,William,ID_99,RES.455,Enslaved people
+Pomp,M,B,82,Codman,John,ID_213,RES.091,census
+Tom,M,B,82,Codman,John,ID_214,RES.091,census
+Cuffe,M,B,82,Codman,John,ID_215,RES.091,census
+Scipio,M,B,82,Codman,John,ID_216,RES.091,census
+Bacchus,M,B,100,Douse,Nathaniel,ID_265,RES.113,census
+?,?,B,155,Graves,Phebe,ID_402,RES.173,census
+?,?,B,155,Graves,Phebe,ID_402,RES.173,census
+?,?,B,155,Graves,Phebe,ID_402,RES.173,census
+Unknown,M,B,295,Rand,Mary,ID_744,RES.329,census
+Unknown,F,B,351,Stimpson,John,ID_744,RES.381,census
+May,F,B,312,Rand,Ann,ID_769,RES.338,census
+Flora,F,B,349,Stevens,Abigail,ID_855,RES.379,census
+Violet,F,B,349,Stevens,Abigail,ID_856,RES.379,census
+Limerick,M,B,368,Temple,Robert,ID_917,RES.398,census
+Jack,M,B,370,Thomas,William,ID_926,RES.400,census
+Boswain,M,B,412,Wood,David,ID_1042,RES.447,census
